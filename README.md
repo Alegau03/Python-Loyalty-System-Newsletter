@@ -24,3 +24,5 @@ Ensure all dependencies are installed by running pip install -r requirements.txt
 Configure MongoDB database and email account credentials in the code.
 <h3>Usage</h3>
 Run the main file main.py to start the application.
+
+<h3>The code is written and commented in Italian.</h3>
